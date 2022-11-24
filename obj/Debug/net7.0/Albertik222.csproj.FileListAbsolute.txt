@@ -1,0 +1,15 @@
+/Users/albertselev/Projects/Albertik222/Albertik222/obj/Debug/net7.0/Albertik222.csproj.AssemblyReference.cache
+/Users/albertselev/Projects/Albertik222/Albertik222/obj/Debug/net7.0/Albertik222.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertselev/Projects/Albertik222/Albertik222/obj/Debug/net7.0/Albertik222.AssemblyInfoInputs.cache
+/Users/albertselev/Projects/Albertik222/Albertik222/obj/Debug/net7.0/Albertik222.AssemblyInfo.cs
+/Users/albertselev/Projects/Albertik222/Albertik222/obj/Debug/net7.0/Albertik222.csproj.CoreCompileInputs.cache
+/Users/albertselev/Projects/Albertik222/Albertik222/bin/Debug/net7.0/Albertik222
+/Users/albertselev/Projects/Albertik222/Albertik222/bin/Debug/net7.0/Albertik222.deps.json
+/Users/albertselev/Projects/Albertik222/Albertik222/bin/Debug/net7.0/Albertik222.runtimeconfig.json
+/Users/albertselev/Projects/Albertik222/Albertik222/bin/Debug/net7.0/Albertik222.dll
+/Users/albertselev/Projects/Albertik222/Albertik222/bin/Debug/net7.0/Albertik222.pdb
+/Users/albertselev/Projects/Albertik222/Albertik222/obj/Debug/net7.0/Albertik222.dll
+/Users/albertselev/Projects/Albertik222/Albertik222/obj/Debug/net7.0/refint/Albertik222.dll
+/Users/albertselev/Projects/Albertik222/Albertik222/obj/Debug/net7.0/Albertik222.pdb
+/Users/albertselev/Projects/Albertik222/Albertik222/obj/Debug/net7.0/Albertik222.genruntimeconfig.cache
+/Users/albertselev/Projects/Albertik222/Albertik222/obj/Debug/net7.0/ref/Albertik222.dll
